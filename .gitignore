@@ -1,0 +1,14 @@
+# Exclude the zip archive — it is a redundant packaged copy of ecu_tuner_core_pack/
+ecu_tuner_core_pack.zip
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+__pycache__/
+*.pyc
+*.pyo
+.idea/
+.vscode/
